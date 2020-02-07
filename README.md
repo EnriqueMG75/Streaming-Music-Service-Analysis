@@ -1,7 +1,7 @@
 
 # Streaming Music Service Analysis
 
-This Gihub repo is complementary to this Medium post:
+This Github repo is complementary to this Medium post:
 https://medium.com/@enriquemg_52937/science-can-predict-if-you-will-give-up-spotify-71d89320b9c0
 
 # Machine Learning with Apache Spark
