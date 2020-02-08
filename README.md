@@ -11,7 +11,7 @@ Machine Learning model that let us forecast if users will give up the subscripti
 
 The project is organized in these steps: 
 
-1 Set up of the Spark session on IBM Watson Studio and load data
+1 Set up Spark session on IBM Watson Studio and load data
 
 2 Data exploration and Data Wrangling
 
